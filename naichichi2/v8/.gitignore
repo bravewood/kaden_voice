@@ -36,8 +36,17 @@ TAGS
 *.Makefile
 *.sdf
 *.ilk
+*.ipch
 build/Debug/*.exe
 build/Debug/obj
 build/Debug/lib/*.lib
-third_party/**/*
+
+
+# Required cygwin file are bin/*.exe, setup_env.bat and setup_mount.bat
+# The other files are not required.
+!third_party/cygwin/bin/*.exe
+third_party/cygwin/usr
+third_party/cygwin/tmp
+third_party/cygwin/lib
+third_party/cygwin/cygdrive
 
