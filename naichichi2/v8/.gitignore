@@ -36,8 +36,8 @@ TAGS
 *.Makefile
 *.sdf
 *.ilk
-v8/build/Debug/*.exe
-v8/build/Debug/obj
-v8/build/Debug/lib/*.lib
-v8/third_party/**/*
+build/Debug/*.exe
+build/Debug/obj
+build/Debug/lib/*.lib
+third_party/**/*
 
