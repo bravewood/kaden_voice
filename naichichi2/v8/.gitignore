@@ -39,5 +39,5 @@ TAGS
 v8/build/Debug/*.exe
 v8/build/Debug/obj
 v8/build/Debug/lib/*.lib
-v8/third_party
+v8/third_party/
 
