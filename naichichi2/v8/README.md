@@ -25,13 +25,22 @@ http://d.hatena.ne.jp/bravewood/20120617
 
 
 環境
-OS: windows vista or 7
-IDE: VC++ 2010 Express
+
++OS: windows vista or 7
+
++IDE: VC++ 2010 Express
+
 
 外部プログラム
-python 2.7.3
+
++python 2.7.3
+
+
+
+
 
 1.all.slnを開く
+
 v8/build/all.sln
 をダブルクリック
 
