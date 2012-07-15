@@ -26,14 +26,14 @@ http://d.hatena.ne.jp/bravewood/20120617
 
 ŠÂ‹«
 
-+OS: windows vista or 7
+OS: windows vista or 7
 
-+IDE: VC++ 2010 Express
+IDE: VC++ 2010 Express
 
 
 ŠO•”ƒvƒƒOƒ‰ƒ€
 
-+python 2.7.3
+python 2.7.3
 
 
 
